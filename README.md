@@ -50,10 +50,12 @@ Este proyecto es una aplicación en Java que simula la venta de ordenadores. La 
 
 Orden #: 1
 Total Ordenadores: 2
+
 Ordenador{idOrdenador=1, nombre='Lenovo One'
 -> monitor=Monitor{idMonitor=1, marca='Lenovo', tamanio=27.0}
 -> teclado=Teclado{idTeclado=1} DispositivoEntrada{tipoEntrada='USB', marca='Lenovo'}
 -> raton=Raton{idRaton=1} DispositivoEntrada{tipoEntrada='USB', marca='Lenovo'}}
+
 Ordenador{idOrdenador=2, nombre='Samsung Light'
 -> monitor=Monitor{idMonitor=2, marca='Samsung', tamanio=29.0}
 -> teclado=Teclado{idTeclado=2} DispositivoEntrada{tipoEntrada='Bluetooh', marca='Samsung'}
@@ -61,14 +63,17 @@ Ordenador{idOrdenador=2, nombre='Samsung Light'
 
 Orden #: 2
 Total Ordenadores: 3
+
 Ordenador{idOrdenador=3, nombre='Hp black'
 -> monitor=Monitor{idMonitor=3, marca='Samsung', tamanio=24.0}
 -> teclado=Teclado{idTeclado=3} DispositivoEntrada{tipoEntrada='USB', marca='Hp'}
 -> raton=Raton{idRaton=3} DispositivoEntrada{tipoEntrada='USB', marca='Hp'}}
+
 Ordenador{idOrdenador=1, nombre='Lenovo One'
 -> monitor=Monitor{idMonitor=1, marca='Lenovo', tamanio=27.0}
 -> teclado=Teclado{idTeclado=1} DispositivoEntrada{tipoEntrada='USB', marca='Lenovo'}
 -> raton=Raton{idRaton=1} DispositivoEntrada{tipoEntrada='USB', marca='Lenovo'}}
+
 Ordenador{idOrdenador=2, nombre='Samsung Light'
 -> monitor=Monitor{idMonitor=2, marca='Samsung', tamanio=29.0}
 -> teclado=Teclado{idTeclado=2} DispositivoEntrada{tipoEntrada='Bluetooh', marca='Samsung'}
