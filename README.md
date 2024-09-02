@@ -68,6 +68,7 @@ Ordenador{idOrdenador=2, nombre='Samsung Light'
 
 -> raton=Raton{idRaton=2} DispositivoEntrada{tipoEntrada='Bluetooh', marca='Samsung'}}
 
+
 Orden #: 2
 
 Total Ordenadores: 3
